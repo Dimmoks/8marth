@@ -20,6 +20,16 @@ h1 {
     
 }
 
+.click {
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 150px;
+    
+}
+
 span {
     position: absolute;
     pointer-events: none;
